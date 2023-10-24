@@ -1,0 +1,39 @@
+h1{
+    background-color: rgb(59, 190, 59);
+    padding: 50px;
+    text-align: inherit;
+    color: white;
+    
+}
+body{
+    margin: 280px;
+}
+.main{
+    background-color:rgba(214, 214, 203, 0.548) ;
+}
+input[type="text"],
+input[type="email"],
+textarea
+{
+    width:90%;
+    padding: 12px;
+    border: 1px solid #b6a3a3;
+    border-radius: 1px;
+    margin: 10px;
+    font-size: 20px;
+
+}
+.body{
+    padding: 50px;
+}
+input[type="submit"]{
+    width: 10%;
+    color:white;
+    background-color: rgb(9, 107, 53);
+    border: none;
+    padding: 10px;
+}
+input[type="submit"]:hover{
+    color: black;
+}
+
